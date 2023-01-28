@@ -1,0 +1,9 @@
+Fri Jan 27 08:56:04 2023 [18280][1][SECURITY] OutboundEmail::checkSavePermissions - not logged in - skipping check
+Fri Jan 27 08:56:04 2023 [18280][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Fri Jan 27 08:56:04 2023 [18280][1][FATAL] Email address save error
+Fri Jan 27 08:56:07 2023 [18280][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Fri Jan 27 08:56:07 2023 [18280][1][SECURITY] Setting logger_file_ext to '.log'.
+Fri Jan 27 08:56:07 2023 [18280][1][SECURITY] Setting logger_file_name to ''.
+Fri Jan 27 08:56:07 2023 [18280][1][SECURITY] Log file extension can't be blank.
+Fri Jan 27 08:56:07 2023 [18280][1][SECURITY] Setting logger_file_name to ''.
+Fri Jan 27 08:56:07 2023 [18280][1][SECURITY] Log file extension can't be blank.
